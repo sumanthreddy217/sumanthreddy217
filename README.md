@@ -19,7 +19,7 @@
 ---
 
 <!-- Tech Stack Section -->
-### 🧰 My Toolbox<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="21px">
+### 🧰 My Toolbox<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="210px">
 
 | **Frontend**              | **Backend**         | **Tools & Platforms**     | **Languages**     |
 |---------------------------|---------------------|----------------------------|--------------------|
