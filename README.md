@@ -20,17 +20,17 @@
 
 | **Frontend** | **Backend** | **Tools & Platforms** | **Languages** |
 | :------------ | :------------ | :------------ | :------------ |
-| HTML5 | Node.js | Git & GitHub | Python |
-| CSS3 / Tailwind CSS | Express.js | VS Code | Java |
-| JavaScript | MongoDB | Cloudinary | C |
-| Bootstrap | MySQL | Netlify |  |
+| HTML5 | MongoDB | Git & GitHub | Python |
+| CSS3 / Tailwind CSS |  | VS Code | Java |
+| JavaScript |  | Cloudinary | C |
+| Bootstrap |  | Netlify |  |
 
 ---
 
 ### 🎯 Hobbies & Interests  
 - 🧩 Building interactive web applications  
 - 🧠 Solving coding challenges  
-- 📖 Reading tech blogs & exploring new tools  
+- 📖 Exploring new tools  
 - 🎵 Music, online games & teamwork activities  
 
 ---
