@@ -1,6 +1,9 @@
 <!-- Hero Section -->
 <h1 align="center">
-  Hi, I'm Karri Damodara Sai Sumanth Reddy  </h1>
+  Hi, I'm Karri Damodara Sai Sumanth Reddy <img src="https://media.giphy.com/media/1BdIPQzWz3KMQ/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40px">
+ </h1> 
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner </h3>
 <h4 align="center">Crafting web experiences that feel as good as they look</h4>
 
