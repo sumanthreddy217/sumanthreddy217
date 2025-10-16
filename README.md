@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">
-  Hi, I'm Karri Damodara Sai Sumanth Reddy <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif" width="40px"> </h1>
+  Hi, I'm Karri Damodara Sai Sumanth Reddy  </h1>
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner </h3>
 <h4 align="center">Crafting web experiences that feel as good as they look</h4>
 
@@ -18,7 +18,7 @@
 ---
 
 <!-- Tech Stack Section -->
-### 🧰 My Toolbox<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="21px">
+### 🧰 My Toolbox <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif" width="35px">
 
 | **Frontend**              | **Backend**         | **Tools & Platforms**     | **Languages**     |
 |---------------------------|---------------------|----------------------------|--------------------|
