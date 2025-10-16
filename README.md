@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center"> Hi, I'm Karri Damodara Sai Sumanth Reddy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="60px"> </h1> 
+<h1 align="center"> Hi, I'm Karri Damodara Sai Sumanth Reddy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="45px"> </h1> 
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner </h3>
 <h4 align="center">Crafting web experiences that feel as good as they look</h4>
 
