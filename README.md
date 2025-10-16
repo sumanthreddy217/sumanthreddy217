@@ -1,14 +1,22 @@
 <h1 align="center">Hi, I'm Karri Damodara Sai Sumanth Reddy 👋</h1>
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner</h3>
 
+<h3 align="center">📣 Let's Connect on GitHub</h3>
+
 <p align="center">
   <a href="https://github.com/sumanthreddy217?tab=followers">
     <img src="https://img.shields.io/github/followers/sumanthreddy217?label=Followers&logo=github&style=social" alt="GitHub followers" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sumanthreddy217?tab=following">
     <img src="https://img.shields.io/github/following/sumanthreddy217?label=Following&logo=github&style=social" alt="GitHub following" />
   </a>
 </p>
+
+<p align="center">
+  <em>Follow me to stay updated on my latest projects, designs, and hackathon magic ✨</em>
+</p>
+
 
 ---
 
