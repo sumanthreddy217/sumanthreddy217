@@ -17,7 +17,7 @@
 ---
 
 <!-- Tech Stack Section -->
-### 🧰 My Toolbox <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif" width="21px">
+### 🧰 My Toolbox <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Loading_2.gif" width="21px">
 
 | **Frontend**              | **Backend**         | **Tools & Platforms**     | **Languages**     |
 |---------------------------|---------------------|----------------------------|--------------------|
