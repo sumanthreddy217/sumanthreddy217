@@ -1,9 +1,7 @@
 <!-- Hero Section -->
-<h1 align="center">👋 Hey there, I'm K Sumanth Reddy</h1>
-<h3 align="center">Crafting web experiences that feel as good as they look</h3>
-
 <h1 align="center">Hi, I'm Karri Damodara Sai Sumanth Reddy 👋</h1> 
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner</h3>
+<h5 align="center">Crafting web experiences that feel as good as they look</h5>
 
 
 ---
