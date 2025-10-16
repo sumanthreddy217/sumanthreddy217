@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">
-  Hi, I'm Karri Damodara Sai Sumanth Reddy <img src="https://media.giphy.com/media/1BdIPQzWz3KMQ/giphy.gif" width="40px"></h1>
+  Hi, I'm Karri Damodara Sai Sumanth Reddy <img src="assets/sunglasses.gif" width="40px"> </h1>
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner </h3>
 <h4 align="center">Crafting web experiences that feel as good as they look</h4>
 
@@ -8,7 +8,7 @@
 ---
 
 <!-- About Section -->
-### 🧠 Who I Am  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30px"> 
+### 🧠 Who I Am   
 
 - 🎓 I'm currently pursuing Btech Final Year, Computer Science and Engineering with Specialization in Data Science at Swarnandhra College of Engineering and Technology.
 - 🎯 I’m a passionate **Frontend Developer** aiming to become a **Full-Stack Developer**
@@ -19,7 +19,7 @@
 ---
 
 <!-- Tech Stack Section -->
-### 🧰 My Toolbox
+### 🧰 My Toolbox <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="45px">
 
 | **Frontend**              | **Backend**         | **Tools & Platforms**     | **Languages**     |
 |---------------------------|---------------------|----------------------------|--------------------|
