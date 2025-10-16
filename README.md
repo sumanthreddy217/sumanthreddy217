@@ -3,12 +3,7 @@
 <h3 align="center">Crafting web experiences that feel as good as they look</h3>
 
 <p align="center">
-  <a href="https://github.com/sumanthreddy217?tab=followers">
-    <img src="https://img.shields.io/github/followers/sumanthreddy217?label=Followers&logo=github&style=flat-square" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/sumanthreddy217?tab=following">
-    <img src="https://img.shields.io/github/following/sumanthreddy217?label=Following&logo=github&style=flat-square" alt="GitHub following" />
-  </a>
+  <img src="https://ghchart.rshah.org/sumanthreddy217" alt="Sumanth's GitHub Contribution Graph" />
 </p>
 
 ---
