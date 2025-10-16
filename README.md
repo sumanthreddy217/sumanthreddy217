@@ -9,16 +9,11 @@
 <!-- About Section -->
 ### 🧠 Who I Am
 
+- 🎓 I'm currently pursuing Btech Final Year, Computer Science and Engineering with Specialization in Data Science at Swarnandhra College of Engineering and Technology.
 - 🎯 I’m a passionate **Frontend Developer** aiming to become a **Full-Stack Developer**
 - 🌱 Currently learning **Tailwind CSS**, **JavaScript**, and **React.js**
 - 💬 I enjoy designing beautiful and responsive web interfaces
-- 🧠 Exploring **AI/ML** and **IoT** projects for my academic learning
 - 🎮 I love **gaming**, **team leadership**, and **creative challenges**
-
-- 🎨 Passionate about UI polish, animation, and storytelling
-- 🛠️ Architecting dynamic registration flows and responsive layouts
-- 🌱 Currently learning Flask + MongoDB for backend integration
-- 🎯 Focused on delivering premium participant experiences
 
 ---
 
