@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center">👋 Hey there, I'm Sumanth</h1>
+<h1 align="center">👋 Hey there, I'm K Sumanth Reddy</h1>
 <h3 align="center">Crafting web experiences that feel as good as they look</h3>
 
 <p align="center">
