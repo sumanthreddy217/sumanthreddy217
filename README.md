@@ -2,7 +2,12 @@
 <h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🚀 Full-Stack Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanthreddy217&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthreddy217" />
+  <a href="https://github.com/sumanthreddy217?tab=followers">
+    <img src="https://img.shields.io/github/followers/sumanthreddy217?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/sumanthreddy217">
+    <img src="https://img.shields.io/github/following/sumanthreddy217?label=Following&style=for-the-badge" alt="GitHub following" />
+  </a>
 </p>
 
 ---
