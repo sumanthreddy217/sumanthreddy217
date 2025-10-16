@@ -9,7 +9,7 @@
 <!-- About Section -->
 ### 🧠 Who I Am
 
-I'm a frontend designer, developer, and fest organizer at **Swarnandhra College of Engineering and Technology**, leading the charge on **Utkarsh 2k25** — a national-level hackathon and cultural fest. I specialize in building scalable, emotionally engaging web systems that blend tradition with modern tech.
+- 🎯 I’m a passionate **Frontend Developer** aiming to become a **Full-Stack Developer** - 🌱 Currently learning **Tailwind CSS**, **JavaScript**, and **React.js** - 💬 I enjoy designing beautiful and responsive web interfaces - 🧠 Exploring **AI/ML** and **IoT** projects for my academic learning - 🎮 I love **gaming**, **team leadership**, and **creative challenges**
 
 - 🎨 Passionate about UI polish, animation, and storytelling
 - 🛠️ Architecting dynamic registration flows and responsive layouts
