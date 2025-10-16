@@ -3,8 +3,13 @@
 <h3 align="center">Crafting web experiences that feel as good as they look</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/sumanthreddy217" alt="Sumanth's GitHub Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=sumanthreddy217&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sumanthreddy217?label=Followers&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/github/following/sumanthreddy217?label=Following&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/sumanthreddy217?label=Stars&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/github/repos/sumanthreddy217?label=Public%20Repos&logo=github&style=flat-square" />
 </p>
+
 
 ---
 
