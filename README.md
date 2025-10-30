@@ -64,7 +64,7 @@
   <a href="https://github.com/sumanthreddy217">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="http://k-sumanth-reddy.netlify.app/">
+  <a href="http://k-sumanth-reddy.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
