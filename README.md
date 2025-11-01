@@ -21,8 +21,8 @@
 
 | **Frontend**              | **Backend**         | **Tools & Platforms**     | **Languages**     |
 |---------------------------|---------------------|----------------------------|--------------------|
-| HTML5, CSS3, Tailwind CSS | Flask, MongoDB      | Git, GitHub, VS Code       | Python, Java, C    |
-| JavaScript, Bootstrap     | REST APIs (learning) | Cloudinary, Netlify        | Markdown, JSON     |
+| HTML5, CSS3, Tailwind CSS | Flask, MongoDB      | Git, GitHub, VS Code       | Python, Java,    |
+| JavaScript, Bootstrap     | NodeJS (learning) | Cloudinary, Netlify        | Markdown, JSON     |
 
 ---
 
